@@ -1,0 +1,40 @@
+title: Signature
+icon: users
+columns:
+  main:
+    width: 2/3
+    fields:
+      firstname:
+        label: Prénom
+        type: text
+        width: 1/2
+      lastname:
+        label: Nom
+        type: text
+        width: 1/2
+      role:
+        label: Fonction / Rôle
+        type: text
+      phone:
+        label: Téléphone ou GSM
+        type: tel
+        width: 1/2
+      email:
+        label: Adresse mail
+        type: email
+        width: 1/2
+  sidebar:
+    width: 1/3
+    fields:
+      linkedin:
+        label: URL LinkedIn
+        type: url
+      youtube:
+        label: URL YouTube
+        type: url
+      facebook:
+        label: URL Facebook
+        type: url
+      instagram:
+        label: URL Instagram
+        type: url

@@ -1,0 +1,11 @@
+title: Site
+columns:
+  main:
+    width: 1/1
+    sections:
+      signatures:
+        type: pages
+        headline: Signatures Email
+        template: signature
+        create: signature
+        empty: Aucune signature pour le moment.
