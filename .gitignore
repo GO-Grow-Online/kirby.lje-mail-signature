@@ -3,6 +3,8 @@
 node_modules
 Icon
 .DS_Store
+.ddev
+ddev
 
 # Temporary files
 # ---------------
