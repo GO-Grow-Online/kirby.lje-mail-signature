@@ -2,7 +2,10 @@
 
 return [
     'panel' => [
-        'install' => true
+        'install' => true,
+        'vue' => [
+            'compiler'
+        ]
     ]
 ];
 
